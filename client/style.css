@@ -15,7 +15,7 @@ body {
 #app {
   width: 100%;
   height: auto;
-  min-height:100vh;
+  min-height:60vh;
   background: #09071b;
 
   display: flex;
@@ -108,6 +108,11 @@ body {
 
 .ai .profile {
   background: #ed1c24;
+}
+
+h1 {
+color:white;
+
 }
 
 .profile img {
